@@ -1,0 +1,12 @@
+@import '~@riapacheco/yutes/colors.scss';
+
+:host {
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+  
+  position: relative;
+}
